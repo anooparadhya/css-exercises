@@ -1,0 +1,20 @@
+.odd-Class,
+.cool-Class{
+    background-color: rgb(255,192, 203);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+
+}
+.cool-Class{
+    font-size: 24px;
+}
+
+#numbertwo{
+    color: hsl(240, 94%, 47%);
+    font-size: 36px;
+}
+
+#numberfour{
+    background-color: #76d780;
+    font-size: 24px;
+    font-weight: bold;
+}
